@@ -1,1 +1,1 @@
-# Vision-ALLaM
+# ArabVLM
